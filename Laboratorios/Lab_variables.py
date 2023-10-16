@@ -12,7 +12,7 @@ print(f"La variable Edad de tipo {type(Edad)}")
 Estatura  = 1.70 # tipo Float
 print(f"La variable Estatura de tipo {type(Estatura)}")
 
-Is_Colombian = True  # Tipo Boolean (True o False)
+Is_Honduras = True  # Tipo Boolean (True o False)
 print(f"La variable 'Is_Colombian' de tipo {type(Is_Colombian)}")
 
 
